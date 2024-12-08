@@ -1,0 +1,126 @@
+ .signIn_Box{
+    
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 80px 0px rgb(16, 231, 5);
+    background-color: rgba(243, 243, 243, 0.328);
+
+}
+
+/* .side-img{
+    background-image: url("resource/ai-generated-8676782.jpg");
+    width: 50%;
+    height: 50%;
+    background-position-x: left;
+    background-position-y: center;
+    background-size: contain;
+    display: flex;
+} */
+
+.logo{
+    background-image: url("resource/lunar_arcade_logo_edit.png");
+    
+    height: 20%; 
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+/* .title01{
+    background-position: right;
+} */
+
+.signIn_Body{
+
+    display: flex;
+    justify-content: center; 
+    height: 100vh;
+    display: flex;
+
+    background-image: url("resource/ai-generated-8676782.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+
+.signUp_Box {
+
+    width: 550px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgb(0, 8, 255);
+    background-color: rgba(232, 219, 219, 0.403);
+    
+}
+
+.adminSignInBody {
+    background-image: url("resource/galaxy-glowing-starfield-illuminates-dark-night-sky-generated-by-ai.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.adminSignIn_Box{
+    width: 380px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(177, 177, 169, 0.384);
+    box-shadow: -5px 5px 10px 5px rgb(1, 83, 247);
+}
+
+.adminBody {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    
+      
+}
+
+.singleProductView {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    width: fit-content;
+    /* padding: 50px; */
+    padding: 150px;
+}
+
+.fp_Box {
+    width: 430px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(24, 24, 24, 0.732);
+    box-shadow: -5px 5px 10px 5px rgb(44, 3, 177);
+}
+
+.fpBody {
+    background-image: url(resource/2201.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.rpBox {
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 80px 0px rgb(16, 231, 5);
+    background-color: rgba(6, 3, 184, 0.646);
+
+    
+}
+
