@@ -14,6 +14,8 @@ include "connection.php";
         echo("Please Enter Your Password");
     }else {
 
+        // echo ("Done");
+
         $rs = Database::search("SELECT * FROM `user` WHERE `username` = '".$username."' AND `password` = '".$password."'");
         $num = $rs->num_rows;
 
