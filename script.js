@@ -183,7 +183,7 @@ function adminSignIn() {
             } else {
                 document.getElementById("msg").innerHTML = response;
                 document.getElementById("msgDiv").className = "d-block";
-                swal("Retry", "Check your details !!", "warning");
+                // swal("Retry", "Check your details !!", "warning");
             }
         }
     };
